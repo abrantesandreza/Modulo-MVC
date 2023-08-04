@@ -11,7 +11,7 @@ namespace Modulo_MVC.Repositories
     {
         public AgendaRepository(DbContextOptions<AgendaRepository> options) : base(options)
         {
-
+            
         }
 
         public DbSet<Contato> Contatos { get; set; }
