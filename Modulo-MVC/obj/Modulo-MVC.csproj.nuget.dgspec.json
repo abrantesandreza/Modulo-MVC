@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj": {}
+    "C:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj": {
+    "C:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj",
         "projectName": "Modulo-MVC",
-        "projectPath": "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj",
+        "projectPath": "C:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\obj\\",
+        "outputPath": "C:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

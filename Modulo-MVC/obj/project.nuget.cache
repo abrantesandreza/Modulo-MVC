@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rG4E9J2x9kME52z5FsBrCqwnJo8OonVTx1C/tV/V8gm4Jbm9/KuLfYCYh15k2h+3aVLYCB3CfWGjoPj5FBzDSA==",
+  "dgSpecHash": "rvw8HHclZKxKJUOOEGOJ8ys4kbRxW88tViRl1ZAtwCW5IqCmtwZgguL7Zq5wkNabA8CzL4sQIHeAqIcv3WAyvg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj",
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Modulo-MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
