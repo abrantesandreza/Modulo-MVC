@@ -1,6 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using Modulo_MVC.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<AgendaRepository>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionString")));
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
