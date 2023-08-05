@@ -20,5 +20,10 @@ namespace Modulo_MVC.Controllers
             var contatos = _dbContext.Contatos.ToList();
             return View(contatos);
         }
+
+        public IActionResult Criar()
+        {
+            return View();
+        }
     }
 }

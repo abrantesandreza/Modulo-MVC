@@ -18679,6 +18679,11 @@
       "FilePath": "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Views\\Contato\\Index.cshtml",
       "TargetPath": "Views\\Contato\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andre\\Desktop\\Modulo-MVC-Trilha-NET\\Modulo-MVC\\Views\\Contato\\Criar.cshtml",
+      "TargetPath": "Views\\Contato\\Criar.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"
